@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
 cat /etc/passwd /etc/hosts
-=======
- #!/bin/bash
- echo "cat /etc/passwd /etc/hosts"
->>>>>>> 0f994e129a4e1cc02fde679589d75d9493968912
